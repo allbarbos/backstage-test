@@ -18,4 +18,3 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition: |
-    openapi: "3.0.0"
