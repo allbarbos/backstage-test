@@ -14,7 +14,7 @@ metadata:
       title: API Spec
       icon: code
 spec:
-  type: openapi
+  type: api
   lifecycle: experimental
   owner: team-c
-  definition: |
+  
