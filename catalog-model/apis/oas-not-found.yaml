@@ -1,0 +1,16 @@
+openapi: 3.0.1
+info:
+  title: OpenAPI not found
+  version: 1.0.0
+paths:
+  /oas-not-found:
+    put:
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+        required: true
+      responses:
+        default:
+          description: Ihu
+          content: {}
