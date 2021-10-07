@@ -19,5 +19,6 @@ spec:
   owner: team-c
   definition:
     definition: |
+    {}
 #   definition:
 #     $text: https://github.com/allbarbos/backstage-test/blob/main/catalog-model/apis/petstore.openapi.yaml
