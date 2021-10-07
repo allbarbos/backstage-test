@@ -16,6 +16,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-cx
+  owner: team-c
   definition:
     $text: https://github.com/allbarbos/backstage-test/blob/main/catalog-model/apis/oas-not-found.yaml
