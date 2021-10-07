@@ -17,6 +17,5 @@ spec:
   type: openapi
   lifecycle: experimental
   owner: team-c
-  definition: |    
-#   definition:
-#     $text: https://github.com/allbarbos/backstage-test/blob/main/catalog-model/apis/petstore.openapi.yaml
+  definition: |
+    openapi: "3.0.0"
