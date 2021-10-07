@@ -4,13 +4,7 @@ info:
   version: 1.0.0
 paths:
   /oas-not-found:
-    put:
-      requestBody:
-        content:
-          application/json:
-            schema: {}
-        required: true
+    get:
       responses:
         default:
-          description: Ihu
-          content: {}
+          description: OpenAPI not found
