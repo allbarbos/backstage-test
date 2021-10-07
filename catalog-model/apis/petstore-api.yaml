@@ -17,20 +17,5 @@ spec:
   type: api
   lifecycle: experimental
   owner: team-c
-  definition: |
-    openapi: 3.0.1
-    info:
-      title: OpenAPI not found
-      version: 1.0.0
-    paths:
-      /oas-not-found:
-        put:
-          requestBody:
-            content:
-              application/json:
-                schema: {}
-            required: true
-          responses:
-            default:
-              description: Ihu
-              content: {}
+  definition:
+    $text: https://github.com/allbarbos/backstage-test/blob/main/catalog-model/apis/oas-not-found.yaml
